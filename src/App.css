@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* body {
+  background-image: url("https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  color: #f1f1f1;
+} */
+
+h1 {
+  text-align: center;
+  font-size: 42px;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+/* Registration & Login */
+#registration-form, #login-form {
+  padding: 10px;
+  text-align: left;
+}
+
+#registration-form h3, #login-form h3 {
+  text-align: center;
+  padding: 10px;
+}
+
+.form-input {
+  padding: 2px;
+  display: flex;
+}
+
+.form-input input {
+  margin-left: auto;
+}
+
+.error-message {
+  text-align: center;
+}
+
+/* Logout */
+h1 button {
+  padding: 5px;
+  position: absolute;
+  right: 30px;
+  top: 30px;
+}
+
+/* Buttons */
+#registration-form button, #login-form button, #post-form  button {
+  padding: 5px;
+  display: block;
+  margin: 5px auto;
+}
+
+/* Post Form */
+#post-here {
+  display: block;
+  border: 4px double #232323;
+  padding: 5px;
+}
+
+#post {
+  border: 4px double #232323;
+  margin: 5px;
+  padding: 10px;
+  text-align: left;
+}
+
+#post-body {
+  display: inline-block;
+}
