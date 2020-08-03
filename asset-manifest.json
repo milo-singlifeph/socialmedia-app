@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/emaieloh/socialmedia-app.git/static/css/main.0aef981a.chunk.css",
+    "main.js": "/emaieloh/socialmedia-app.git/static/js/main.43959472.chunk.js",
+    "main.js.map": "/emaieloh/socialmedia-app.git/static/js/main.43959472.chunk.js.map",
+    "runtime-main.js": "/emaieloh/socialmedia-app.git/static/js/runtime-main.1f7e8e0d.js",
+    "runtime-main.js.map": "/emaieloh/socialmedia-app.git/static/js/runtime-main.1f7e8e0d.js.map",
+    "static/js/2.50f38d05.chunk.js": "/emaieloh/socialmedia-app.git/static/js/2.50f38d05.chunk.js",
+    "static/js/2.50f38d05.chunk.js.map": "/emaieloh/socialmedia-app.git/static/js/2.50f38d05.chunk.js.map",
+    "index.html": "/emaieloh/socialmedia-app.git/index.html",
+    "precache-manifest.d3835a2dd6d990e2bd2863b1bf97740f.js": "/emaieloh/socialmedia-app.git/precache-manifest.d3835a2dd6d990e2bd2863b1bf97740f.js",
+    "service-worker.js": "/emaieloh/socialmedia-app.git/service-worker.js",
+    "static/css/main.0aef981a.chunk.css.map": "/emaieloh/socialmedia-app.git/static/css/main.0aef981a.chunk.css.map",
+    "static/js/2.50f38d05.chunk.js.LICENSE.txt": "/emaieloh/socialmedia-app.git/static/js/2.50f38d05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f7e8e0d.js",
+    "static/js/2.50f38d05.chunk.js",
+    "static/css/main.0aef981a.chunk.css",
+    "static/js/main.43959472.chunk.js"
+  ]
+}
