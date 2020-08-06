@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/emaieloh/socialmedia-app.git/precache-manifest.d3835a2dd6d990e2bd2863b1bf97740f.js"
+  "/emaieloh/socialmedia-app.git/precache-manifest.2e492c064007f1bb5154b203c65a4916.js"
 );
 
 self.addEventListener('message', (event) => {

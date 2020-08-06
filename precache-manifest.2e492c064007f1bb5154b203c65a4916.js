@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57b3507cf0669fdec1bdbfee63998be2",
+    "revision": "05b8bac9ce1826cbec3c7182a2a53817",
     "url": "/emaieloh/socialmedia-app.git/index.html"
   },
   {
-    "revision": "673878ab7f856d8cade3",
+    "revision": "2c6878c3b8fc35155328",
     "url": "/emaieloh/socialmedia-app.git/static/css/main.0aef981a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emaieloh/socialmedia-app.git/static/js/2.50f38d05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "673878ab7f856d8cade3",
-    "url": "/emaieloh/socialmedia-app.git/static/js/main.43959472.chunk.js"
+    "revision": "2c6878c3b8fc35155328",
+    "url": "/emaieloh/socialmedia-app.git/static/js/main.bc1c74d0.chunk.js"
   },
   {
     "revision": "9fbcf079ca17bbe0b991",
